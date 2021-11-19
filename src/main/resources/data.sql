@@ -24,7 +24,7 @@ insert into product
 values (4,
         'Biscuiţi, mascarpone, ouă, zahăr, fructe pădure, vanilie. Desertul este ca un basm al bucătăriei mereu după ce termini să-l mănânci simți acel „final fericit” de care toți eroii au parte',
         'Cheesecake',
-        16.7, 20, 'https://static.onecms.io/wp-content/uploads/sites/43/2020/06/04/cheesecake-topped-with-berries-photo-by-verdina-anna-GettyImages-1145682957-cropped.jpg', 4);
+        16.7, 20, 'https://images.unsplash.com/photo-1533134242443-d4fd215305ad?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZXNlY2FrZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80', 4);
 
 -- parola1
 insert into user
